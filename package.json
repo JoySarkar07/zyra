@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "Component library for WordPress plugins",
   "main": "build/index.js",
-  "types": "build/types/index.d.ts",
+  "types": "build/index.d.ts",
   "module": "build/index.js",
   "files": [
     "build"
